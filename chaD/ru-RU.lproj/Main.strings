@@ -1,0 +1,111 @@
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "1I6-Pz-QWd"; */
+"1I6-Pz-QWd.normalTitle" = "Настройки";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "2Gs-vX-7u3"; */
+"2Gs-vX-7u3.text" = "Имя пользователя";
+
+/* Class = "UIButton"; normalTitle = "People who registrated in chaD"; ObjectID = "5Wb-IS-2Vl"; */
+"5Wb-IS-2Vl.normalTitle" = "Люди зарегестрированные в chaD";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password? "; ObjectID = "5lj-BJ-SyW"; */
+"5lj-BJ-SyW.normalTitle" = "Забыли пороль? ";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "7un-5o-FvI"; */
+"7un-5o-FvI.normalTitle" = "Регетсрация;
+
+/* Class = "UIButton"; normalTitle = "Edit profile"; ObjectID = "BaT-qr-92e"; */
+"BaT-qr-92e.normalTitle" = "Редактирование";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D9B-J1-rXU"; */
+"D9B-J1-rXU.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "FPh-WI-0qr"; */
+"FPh-WI-0qr.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "Frj-mR-fVh"; */
+"Frj-mR-fVh.placeholder" = "Почта";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "GjN-wd-Wg7"; */
+"GjN-wd-Wg7.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "2h."; ObjectID = "HEl-jv-k2P"; */
+"HEl-jv-k2P.text" = "2h.";
+
+/* Class = "UIBarButtonItem"; title = "LogOut"; ObjectID = "JRa-9W-1Tl"; */
+"JRa-9W-1Tl.title" = "Выход";
+
+/* Class = "UILabel"; text = "biography"; ObjectID = "KfL-5f-fXG"; */
+"KfL-5f-fXG.text" = "Статус";
+
+/* Class = "UILabel"; text = "chaD"; ObjectID = "Len-gC-cGw"; */
+"Len-gC-cGw.text" = "chaD";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "O9q-jc-L4V"; */
+"O9q-jc-L4V.placeholder" = "Имя пользователя";
+
+/* Class = "UITextField"; placeholder = "BIOGRAPHY"; ObjectID = "PpQ-5U-05p"; */
+"PpQ-5U-05p.placeholder" = "Статус";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "QgA-7a-xbz"; */
+"QgA-7a-xbz.text" = "Страна";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "TYO-Hp-fea"; */
+"TYO-Hp-fea.placeholder" = "Имя пользователя";
+
+/* Class = "UITextField"; placeholder = "country"; ObjectID = "ThD-4R-ZJK"; */
+"ThD-4R-ZJK.placeholder" = "Страна";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "UTU-wg-peL"; */
+"UTU-wg-peL.normalTitle" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "biography"; ObjectID = "V8S-nH-fYT"; */
+"V8S-nH-fYT.placeholder" = "Статус";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "bbn-df-6C6"; */
+"bbn-df-6C6.placeholder" = "почта";
+
+/* Class = "UIButton"; normalTitle = "CONTACTS"; ObjectID = "cvk-h2-7re"; */
+"cvk-h2-7re.normalTitle" = "Контакты";
+
+/* Class = "UITextField"; placeholder = "COUNTRY"; ObjectID = "dbg-8i-oZa"; */
+"dbg-8i-oZa.placeholder" = "Страна";
+
+/* Class = "UITableViewSection"; headerTitle = "User info"; ObjectID = "ij9-TF-oCa"; */
+"ij9-TF-oCa.headerTitle" = "Информация";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "iks-Jh-ET9"; */
+"iks-Jh-ET9.text" = "Удалить Аккаунт";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "kgP-nw-wLG"; */
+"kgP-nw-wLG.text" = "Имя пользователя";
+
+/* Class = "UIButton"; normalTitle = "No Account? Sign Up"; ObjectID = "mC8-4q-rO1"; */
+"mC8-4q-rO1.normalTitle" = "Нет аккаунта? Регистрируйся";
+
+/* Class = "UIButton"; normalTitle = "CHATS"; ObjectID = "nhe-H2-zs2"; */
+"nhe-H2-zs2.normalTitle" = "Чаты";
+
+/* Class = "UITableViewSection"; headerTitle = "user picture"; ObjectID = "ojJ-oE-YNY"; */
+"ojJ-oE-YNY.headerTitle" = "user picture";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "pNd-Gk-Pk3"; */
+"pNd-Gk-Pk3.normalTitle" = "Логин";
+
+/* Class = "UITextField"; placeholder = "enter your emal"; ObjectID = "vW0-HX-caY"; */
+"vW0-HX-caY.placeholder" = "Введите свою почту";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vWM-GJ-EtY"; */
+"vWM-GJ-EtY.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "wQl-zK-B1R"; */
+"wQl-zK-B1R.placeholder" = "Пороль";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "wdF-QW-rZh"; */
+"wdF-QW-rZh.placeholder" = "Почта";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "yTY-34-YkX"; */
+"yTY-34-YkX.text" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "enter your password"; ObjectID = "zVG-DU-unY"; */
+"zVG-DU-unY.placeholder" = "Введите свой пороль;
